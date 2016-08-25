@@ -25,7 +25,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100906}
   m_LocalRotation: {x: 0.00008726647, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -17.438053, y: 8.236797, z: 14.03731}
   m_LocalScale: {x: 18, y: 0.1, z: 6}
   m_Children: []
   m_Father: {fileID: 0}
@@ -40,7 +40,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 592bb73c021b640e3b5f1819b1247594, type: 2}
+  - {fileID: 2100000, guid: 462aefc44c6a44e7bbc407ac1d79c4b4, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1

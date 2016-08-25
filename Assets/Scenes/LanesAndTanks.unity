@@ -250,8 +250,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   backgroundPrefab: {fileID: 100906, guid: bbbd0459c1f4d4434a3f3cbc8086655b, type: 2}
-  backgroundPrefabLeft: {fileID: 193056, guid: 4a55ea11487a94ebeb1f8451012746c1, type: 2}
-  backgroundPrefabRight: {fileID: 110294, guid: e58e82d26d452488689f12cadc0bef9d,
+  backgroundPrefabLeft: {fileID: 110294, guid: e58e82d26d452488689f12cadc0bef9d, type: 2}
+  backgroundPrefabRight: {fileID: 193056, guid: 4a55ea11487a94ebeb1f8451012746c1,
     type: 2}
   level: {fileID: 1937650593}
   ground: {fileID: 2028308826}
